@@ -19,13 +19,12 @@ Includes: Authentication flow, curl commands, POST requests, JSON bodies, error 
 ---
 
 ## 📂 Contents
-- `index.html` – Landing page with navigation
-- Markdown and HTML documentation for each API
+- HTML and Markdown documentation for each API
 - Use case scenarios and writer's notes
+- `index.html` landing page for GitHub Pages
 
 ## 📄 Live Demo
-Visit the live portfolio site via GitHub Pages:  
-[https://deniseylarson.github.io/api-docs-portfolio](https://deniseylarson.github.io/api-docs-portfolio)
+Hosted at: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
 
 ---
 
