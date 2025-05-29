@@ -42,7 +42,7 @@ Returns data for all countries.
 GET https://restcountries.com/v3.1/all
 ```
 
-**Sample Response Snippet:**
+**Response Example Snippet:**
 ```json
 [
   {
@@ -70,10 +70,10 @@ GET https://restcountries.com/v3.1/name/germany
 **Query Parameters:**
 - `fullText=true` (optional): Match the exact name
 
-**Sample Response:**
+**Response Example:**
 ```json
 [
-  {
+   {
     "name": {
       "common": "Germany",
       "official": "Federal Republic of Germany"
@@ -140,7 +140,7 @@ GET https://restcountries.com/v3.1/alpha/ca
 
 ## Troubleshooting Tips
 - If a request returns `404`, double-check your spelling or use the `/all` endpoint to confirm the country exists.
-- API may rate-limit requests if hit too frequently — consider caching results locally.
+- API may rate-limit requests if hit too frequently. Consider caching results locally.
 - JSON keys may change slightly between versions; validate response structure before parsing.
 
 ---
