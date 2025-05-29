@@ -1,9 +1,9 @@
 # 🌍 REST Countries API Documentation
 
 ## Overview
-This documentation provides a sample guide for using the REST Countries API. It is intended to demonstrate technical writing skills in documenting unauthenticated API endpoints, request parameters, response formats, and common use cases.
+This sample documentation demonstrates how I would approach documenting a public REST API for developers. I selected the REST Countries API because it provides clean, structured JSON responses and supports practical scenarios involving international data.
 
-The REST Countries API allows developers to programmatically retrieve country-specific data such as population, currencies, languages, regions, and borders. It is commonly used in applications that involve international data, data visualization, or geographic insights.
+The REST Countries API allows users to retrieve country-specific details such as population, currencies, languages, regions, and borders. In a real-world context, this kind of API could be used in dashboards, data visualization tools, or apps requiring geographic insights. This documentation is designed to help developers understand available endpoints, make and test requests, interpret responses, and troubleshoot issues.
 
 ---
 
