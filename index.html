@@ -3,13 +3,91 @@
 <head>
   <meta charset="UTF-8">
   <title>API Documentation Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f4f7fb;
+      color: #333;
+      margin: 0;
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
+    .container {
+      max-width: 700px;
+      background: white;
+      border-radius: 12px;
+      padding: 40px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    h2 {
+      font-size: 1.8rem;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1rem;
+      margin-bottom: 25px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin: 12px 0;
+    }
+    a {
+      text-decoration: none;
+      color: #0066cc;
+      font-weight: 600;
+      transition: color 0.2s ease;
+    }
+    a:hover {
+      color: #003366;
+    }
+    .profile-pic {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 20px;
+      border: 3px solid #ccc;
+    }
+    .about-author {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #ddd;
+      text-align: left;
+    }
+    .about-author h3 {
+      font-size: 1.3rem;
+      margin-bottom: 10px;
+    }
+    .about-author p {
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+  </style>
 </head>
-<h2>API Documentation Portfolio</h2>
 <body>
- <p>Welcome to my technical writing portfolio, featuring two sample API documentation projects:</p>
-<ul>
-  <li><a href="REST_Countries_API_Documentation.html">REST Countries API</a></li>
-  <li><a href="GitHub_REST_API_Documentation.html">GitHub REST API</a></li>
-</ul>
+  <div class="container">
+    <img src="profile.jpg" alt="Profile Photo" class="profile-pic" />
+    <h2>API Documentation Portfolio</h2>
+    <p>Welcome to my technical writing portfolio, featuring two sample API documentation projects:</p>
+    <ul>
+      <li><a href="REST_Countries_API_Documentation.html">REST Countries API</a></li>
+      <li><a href="GitHub_REST_API_Documentation.html">GitHub REST API</a></li>
+    </ul>
+
+    <div class="about-author">
+      <h3>About the Author</h3>
+      <p>
+        I'm a senior technical writer with deep experience in documenting complex enterprise software, including supply chain and logistics systems.
+        This portfolio showcases my ability to create API documentation that is clear, structured, and developer-friendly. When I'm not writing, I enjoy
+        community volunteering, cheering for the Packers, and trying to keep my houseplants alive.
+      </p>
+    </div>
+  </div>
 </body>
 </html>
