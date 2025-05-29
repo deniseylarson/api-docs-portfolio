@@ -25,7 +25,7 @@ Includes: Authentication flow, curl commands, POST requests, JSON bodies, error 
 
 ## 📄 Live Demo
 Visit the live portfolio site via GitHub Pages:  
-[https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
+[https://deniseylarson.github.io/api-docs-portfolio](https://deniseylarson.github.io/api-docs-portfolio)
 
 ---
 
