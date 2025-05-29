@@ -1,7 +1,0 @@
-## 📘 Use Case Scenario: Global Data Solutions
-
-Global Data Solutions is a data visualization firm that builds interactive dashboards for clients in the logistics and finance industries. They are developing a global dashboard that visualizes country-specific data including population, region, and currency.
-
-To support this, the team uses the REST Countries API to fetch structured information about countries and their attributes. This documentation was created to help their front-end developers quickly understand available endpoints, interpret JSON responses, and troubleshoot common integration errors.
-
-It serves as a training resource and quick reference to streamline internal development and reduce dependencies on external technical support.
