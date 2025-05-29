@@ -138,6 +138,8 @@ Returns a JSON object representing the created issue.
 ---
 
 ## Tools Used
-- curl and Postman for request testing
-- GitHub Developer Docs for reference
-- Markdown formatting for publication
+- Referenced official GitHub Developer Docs
+- Tested API endpoints using **Postman**
+- Validated JSON responses with **jsonlint.com**
+- Edited and previewed Markdown using **StackEdit**
+- Published documentation via **GitHub Pages**
