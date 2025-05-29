@@ -7,20 +7,17 @@ This repository contains a professional API documentation portfolio featuring tw
 ## 📘 Projects Included
 
 ### 🌍 REST Countries API
-A public, unauthenticated API demonstrating structured country data.  
-**Fictional Client:** Global Data Solutions  
-Includes: Endpoint reference, sample responses, status codes, troubleshooting.
+A public, unauthenticated API used to demonstrate structured country data retrieval.
+Includes: Endpoint reference, sample responses, status codes, and troubleshooting tips.
 
 ### 🛠 GitHub REST API
-An authenticated API simulating internal tooling for developers.  
-**Fictional Client:** Code Labs  
-Includes: Authentication flow, curl commands, POST requests, JSON bodies, error handling.
+An authenticated API simulating internal tooling and developer workflow integration.
+Includes: Authentication setup, GET/POST requests, JSON payloads, and error handling.
 
 ---
 
 ## 📂 Contents
-- HTML and Markdown documentation for each API
-- Use case scenarios and writer's notes
+- Markdown documentation for each API
 - `index.html` landing page for GitHub Pages
 
 ## 📄 Live Demo
