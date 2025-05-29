@@ -24,7 +24,7 @@ Includes: Authentication flow, curl commands, POST requests, JSON bodies, error 
 - `index.html` landing page for GitHub Pages
 
 ## 📄 Live Demo
-Hosted at: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
+Hosted at: [https://deniseylarson.github.io/api-docs-portfolio](https://deniseylarson.github.io/api-docs-portfolio)
 
 ---
 
