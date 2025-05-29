@@ -1,0 +1,5 @@
+## ✍️ Writer’s Note – GitHub REST API
+
+I created this sample to demonstrate how I would document an authenticated API with multi-method interaction. The GitHub REST API was selected to showcase token authentication, POST requests, and JSON payload handling.
+
+It simulates a documentation set for an internal development team building tools on top of GitHub’s API.

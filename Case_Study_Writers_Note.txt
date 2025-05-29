@@ -1,0 +1,5 @@
+## ✍️ Writer’s Note – REST Countries API
+
+This sample documentation was created to demonstrate how I would approach documenting a public REST API. I selected the REST Countries API because it offers clean, well-structured JSON responses and practical use cases.
+
+The documentation includes endpoint summaries, sample requests and responses, status codes, and developer-focused tips to simulate a real-world onboarding experience.

@@ -1,0 +1,5 @@
+## 🛠 Use Case Scenario: Code Labs
+
+Code Labs is a startup that builds open-source project management tools. They use the GitHub REST API to automate issue tracking and repository insights from a custom dashboard.
+
+This documentation helps their internal developers understand authentication requirements, request formatting, and response handling for common endpoints.
