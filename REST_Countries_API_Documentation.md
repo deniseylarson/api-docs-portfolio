@@ -20,11 +20,15 @@ No API key or authentication is required to access this API.
 ---
 
 ## Quick Start Example
-Use `curl` or Postman to test a simple request:
 
-```bash
-curl https://restcountries.com/v3.1/name/canada
-```
+**Retrieve country details using Postman:**
+
+1. Set the request type to `GET`
+2. Use the following URL:
+   ```
+   https://restcountries.com/v3.1/name/canada
+   ```
+3. Click **Send** to view country information
 
 ---
 
