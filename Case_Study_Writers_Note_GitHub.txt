@@ -1,0 +1,7 @@
+## ✍️ Writer’s Note
+
+This GitHub API documentation sample was created to demonstrate how I would document a REST API that includes authentication, JSON payloads, and multiple HTTP methods.
+
+I chose the GitHub REST API for its relevance to modern development workflows and its rich set of endpoints for user and repository management. To reflect realistic developer needs, the documentation includes authentication instructions, example `curl` requests, and error handling guidelines.
+
+My goal was to simulate a deliverable that could serve as both an onboarding guide and a day-to-day reference for engineers integrating with GitHub’s API.

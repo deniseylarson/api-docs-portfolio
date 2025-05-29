@@ -1,0 +1,7 @@
+## ✍️ Writer’s Note
+
+This sample documentation was created as part of a professional writing portfolio to demonstrate API documentation capabilities using a publicly available data source.
+
+I selected the REST Countries API because it offers clean, well-structured JSON responses and a realistic use case for applications that display regional data. The API does not require authentication, making it ideal for quick testing and documentation.
+
+My goal was to simulate a real-world documentation scenario where a technical writer needs to produce developer-ready content independently. The structure, examples, and troubleshooting tips reflect a user-centered approach designed to reduce developer onboarding time and improve implementation clarity.
