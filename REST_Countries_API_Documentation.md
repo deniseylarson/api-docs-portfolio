@@ -127,7 +127,7 @@ GET https://restcountries.com/v3.1/alpha/ca
 ---
 
 ## Common Use Cases
-- Displaying country info in a dropdown menu
+- Displaying country information in a dropdown menu
 - Creating a world population heat map
 - Supporting international shipping rules
 - Adding multi-language and currency support
