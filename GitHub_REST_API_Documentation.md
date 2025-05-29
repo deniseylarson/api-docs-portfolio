@@ -138,6 +138,16 @@ Returns a JSON object representing the created issue.
 
 ---
 
+## Common Use Cases
+
+- Automating issue creation and assignment in GitHub repositories
+- Integrating GitHub data into internal dashboards or reporting tools
+- Retrieving repository metadata for analysis or archiving
+- Syncing pull request or issue activity with external project management tools
+- Authenticating users and retrieving their profile or contribution data
+
+---
+
 ## Troubleshooting Tips
 - Always include a valid token when accessing private data.
 - If your request returns `401`, double-check your authentication header.
