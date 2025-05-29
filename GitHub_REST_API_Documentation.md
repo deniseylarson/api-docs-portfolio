@@ -1,9 +1,9 @@
 # 🛠 GitHub REST API Documentation
 
 ## Overview
-This documentation provides a sample guide for using the GitHub REST API. It is intended to demonstrate technical writing skills in documenting API endpoints, authentication methods, request parameters, and expected responses.
+This documentation provides a sample guide for using the GitHub REST API. It is intended to demonstrate technical writing skills in documenting authenticated API endpoints, request formatting, JSON payloads, and expected responses.
 
-The GitHub REST API allows developers to interact with GitHub repositories, issues, pull requests, users, and more programmatically.
+The GitHub REST API allows developers to programmatically interact with repositories, issues, pull requests, and user profiles. It is often used to automate workflows, integrate external tools, and enhance development productivity.
 
 ---
 
