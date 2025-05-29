@@ -30,11 +30,19 @@ Authorization: token YOUR_TOKEN
 
 ## Quick Start Example
 
-Retrieve your user profile with a token:
+**Retrieve your user profile with a token using Postman:**
 
-```bash
-curl -H "Authorization: token YOUR_TOKEN" https://api.github.com/user
-```
+1. Set the request type to `GET`
+2. Use the following URL:
+   ```
+   https://api.github.com/user
+   ```
+3. Under the **Headers** tab, add:
+   ```
+   Key: Authorization
+   Value: token YOUR_TOKEN
+   ```
+4. Click **Send** to view the authenticated user response.
 
 ---
 
@@ -139,7 +147,7 @@ Returns a JSON object representing the created issue.
 
 ## Tools Used
 - Referenced official GitHub Developer Docs
+- Formatted and previewed Markdown using **StackEdit**
 - Tested API endpoints using **Postman**
 - Validated JSON responses with **jsonlint.com**
-- Edited and previewed Markdown using **StackEdit**
-- Published documentation via **GitHub Pages**
+- Published content via **GitHub Pages**
