@@ -142,6 +142,7 @@ GET https://restcountries.com/v3.1/alpha/ca
 ---
 
 ## Appendix: Tools Used
-- Tested endpoints using **curl** and **Postman**
-- JSON responses formatted and validated with **jsonlint.com**
-- Markdown edited using **Typora** and previewed in **GitHub Pages**
+- Tested API endpoints using **Postman**
+- Validated JSON responses with **jsonlint.com**
+- Edited and previewed Markdown using **StackEdit**
+- Published documentation via **GitHub Pages**
